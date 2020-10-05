@@ -1,0 +1,26 @@
+<ArchivoBaseDatos>
+  <Archivo>
+    <Id>1</Id>
+    <Server>0</Server>
+    <Name>Proyecto II.pdf</Name>
+    <Path>../Servidor/almacenamiento/jfdeoliveira.15/17-01-2019 10;43;35_Proyecto II.pdf</Path>
+    <Date>17-01-2019 10;43;35</Date>
+    <Username>jfdeoliveira.15</Username>
+  </Archivo>
+  <Archivo>
+    <Id>2</Id>
+    <Server>0</Server>
+    <Name>da.png</Name>
+    <Path>../Servidor/almacenamiento/jfdeoliveira.15/17-01-2019 10;44;15_da.png</Path>
+    <Date>17-01-2019 10;44;15</Date>
+    <Username>jfdeoliveira.15</Username>
+  </Archivo>
+  <Archivo>
+    <Id>3</Id>
+    <Server>0</Server>
+    <Name>Auditoria.docx</Name>
+    <Path>../Servidor/almacenamiento/jfdeoliveira.15/17-01-2019 10;45;14_Auditoria.docx</Path>
+    <Date>17-01-2019 10;45;14</Date>
+    <Username>jfdeoliveira.15</Username>
+  </Archivo>
+</ArchivoBaseDatos>
